@@ -1,0 +1,26 @@
+.password-icon {
+    float: right;
+    position: relative;
+    margin: -25px 10;
+    cursor: pointer;
+    top: 10px;
+    right: 25px;
+  }
+
+  /*.tacoimagen {
+    width: 250px;
+    height: 250px;
+    margin: ;
+    border: solid #fff;
+    display: block;
+    
+  }*/
+  .tacoimagen{
+     /* ajustar los valores para mover la imagen */
+    width: 300px;
+    height: 300px;
+    margin: 30% auto;
+    display: block;
+  }
+
+  /*Diseño de iniciar Sesion*/

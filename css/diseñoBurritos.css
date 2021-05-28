@@ -1,0 +1,22 @@
+body{
+    background: url(../img/Burrito.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.estilo3{
+    background: rgba(0, 0, 0, 0.808);
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.884);
+    color: white;
+}
+.b3{
+    background: #1cec15;
+    border: none;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 700!important;
+    color: rgb(12, 12, 12);
+    box-shadow: 0 0 40px rgba(6, 247, 66, 0.897);
+    transition: 0.3s ease-in;
+}
